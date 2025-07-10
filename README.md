@@ -25,11 +25,13 @@ React
  👉 **Демо-версия**: [Посмотреть онлайн](https://magomed-abdulzagirov.github.io/my-portfolio/)  
 👉 Локальный запуск:
 
-bash
+```bash
 git clone https://github.com/Magomed-Abdulzagirov/my-portfolio.git
 cd my-portfolio
-npm install
-npm start
+npm install  # или yarn install
+npm start    # или yarn start
+```
+
 📩 Контакты
 📧 Email: mabdulzagirov@yandex.ru
 📱 Telegram: @cahu11
